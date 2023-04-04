@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Osnovi_RecyclerView</string>
+    <string name="Move_UP">Move UP</string>
+    <string name="Move_DOWN">Move DOWN</string>
+    <string name="Remove">REMOVE</string>
+
+    <string name="fire">Fire</string> //ресурс для новой команды
+    <string name="unemployed">[Unemployed]</string> //ресурс который будет отображаться вместо компании если её нет
+</resources>
